@@ -1,3 +1,5 @@
+  
+    
 ### Introducción 
 
 
@@ -39,5 +41,10 @@
 
 > En definitiva, el diseño inseguro es la falta de controles de seguridad integrados en la aplicación a lo largo del ciclo de desarrollo. Esto puede tener amplias y profundas consecuencias para la seguridad, ya que la propia aplicación no se diseña teniendo en cuenta la seguridad.  
 >
-> Estos descuidos dejarán inseguro el diseño fundamental y la base de la aplicación, abriendo la puerta a agujeros de seguridad, que a menudo conducen a la eventual revelación de información o al compromiso total de la aplicación.
+> Estos descuidos dejarán inseguro el diseño fundamental y la base de la aplicación, abriendo la puerta a agujeros de seguridad, que a menudo conducen a la eventual revelación de información o al compromiso total de la aplicación.  
+  
+    
 
+
+
+[<<< - Volver al Índice](/README.md)

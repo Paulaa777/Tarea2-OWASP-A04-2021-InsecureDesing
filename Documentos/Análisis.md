@@ -8,7 +8,7 @@
 
 #### Diseño Inseguro	
 
-**A04:2021 – Diseño Inseguro **es una nueva categoría para 2021, centrada en los riesgos relacionados con defectos de diseño y las fallas arquitectónicas, con un llamamiento a un mayor uso de: Modelado de Amenazas, Patrones de Diseño Seguros y Arquitecturas de Referencia
+**A04:2021 – Diseño Inseguro** es una nueva categoría para 2021, centrada en los riesgos relacionados con defectos de diseño y las fallas arquitectónicas, con un llamamiento a un mayor uso de: Modelado de Amenazas, Patrones de Diseño Seguros y Arquitecturas de Referencia
 
 El Diseño Inseguro es una amplia categoría que representa diferentes debilidades, expresadas como *"Diseño de Control Faltante o Ineficaz"*, surgen al ignorar las mejores prácticas de diseño y arquitectura, empezando por la fase de planificación antes de la implementación real.  
 
@@ -190,7 +190,13 @@ Uno de los factores que contribuyen al Diseño Inseguro es la falta de perfiles 
 
 [The Threat Modeling Manifesto](https://threatmodelingmanifesto.org)
 
-[Awesome Threat Modeling](https://github.com/hysnsec/awesome-threat-modelling)
+[Awesome Threat Modeling](https://github.com/hysnsec/awesome-threat-modelling)   
+   
+     
+
+
+
+[<<< - Volver al Índice](/README.md)
 
 
 

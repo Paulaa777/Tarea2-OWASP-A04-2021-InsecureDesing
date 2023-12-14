@@ -23,7 +23,7 @@
 
 ------
 
-    _**Paula González Seoane**_
+**Paula González Seoane**
 
 ------  
 

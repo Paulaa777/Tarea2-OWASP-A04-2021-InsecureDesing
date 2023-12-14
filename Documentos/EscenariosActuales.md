@@ -39,7 +39,12 @@
 >
 > Incluso si hay una página de autenticación pidiendo un nombre de usuario y contraseña en https://broken-website/admin, sin las protecciones adecuadas un atacante podría simplemente eludir esto navegando directamente a https://broken-website/admin/myadmin.  
 >
-> Puede parecer improbable que un atacante descubra esto, pero mediante herramientas de fuerza bruta de directorios como DIRB, un atacante puede probar miles de URL y rastrear toda la página web basándose en las respuestas dadas por el servidor web.
+> Puede parecer improbable que un atacante descubra esto, pero mediante herramientas de fuerza bruta de directorios como DIRB, un atacante puede probar miles de URL y rastrear toda la página web basándose en las respuestas dadas por el servidor web.  
+  
+    
+    
 
 
 
+
+[<<< - Volver al Índice](/README.md)
