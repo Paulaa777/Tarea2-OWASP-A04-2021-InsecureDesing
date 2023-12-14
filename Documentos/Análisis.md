@@ -178,6 +178,9 @@ Uno de los factores que contribuyen al Diseño Inseguro es la falta de perfiles 
 
 
 
+
+
+
 * **Referencias**
 
 [OWASP Cheat Sheet: Secure Design Principles](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html)
@@ -194,6 +197,7 @@ Uno de los factores que contribuyen al Diseño Inseguro es la falta de perfiles 
    
      
 
+----------
 
 
 [<<< - Volver al Índice](/README.md)

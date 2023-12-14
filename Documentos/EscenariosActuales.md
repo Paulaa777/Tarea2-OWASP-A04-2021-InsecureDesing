@@ -42,9 +42,9 @@
 > Puede parecer improbable que un atacante descubra esto, pero mediante herramientas de fuerza bruta de directorios como DIRB, un atacante puede probar miles de URL y rastrear toda la página web basándose en las respuestas dadas por el servidor web.  
   
     
-    
 
 
 
+-------------
 
 [<<< - Volver al Índice](/README.md)

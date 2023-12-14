@@ -12,4 +12,8 @@
 - https://owasp.org/Top10/es/A04_2021-Insecure_Design/
 - https://foresite.com/blog/owasp-top-10-insecure-design/
 - https://crashtest-security.com/insecure-design-vulnerability/
-- https://www.synopsys.com/blogs/software-security/owasp-top-10-insecure-design.html
+- https://www.synopsys.com/blogs/software-security/owasp-top-10-insecure-design.html  
+ 
+--------- 
+
+[<<< - Volver al Índice](/README.md)
