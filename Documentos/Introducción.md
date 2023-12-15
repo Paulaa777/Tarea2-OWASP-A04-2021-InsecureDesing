@@ -1,8 +1,9 @@
   
-    
+<br>
+
 ### Introducción 
 
-
+<br>
 
 > **OWASP** (Open Worldwide Application Security Project) es una fundación sin ánimo de lucro que trabaja para mejorar la seguridad del software. 
 >
@@ -17,14 +18,16 @@
 > El último Top 10 en la categoría de Aplicaciones Web es el del 2021 
 
 
+<br>
 
 
+**Top 10 Web Application Security Risks**  
 
-**Top 10 Web Application Security Risks**
+![mapping-Top10Web](/Documentos/Imágenes/mapping-Top10Web.png)  
 
-> Hay tres nuevas categorías, cuatro categorías con cambios de denominación y alcance, y alguna consolidación en los 10 principales para 2021
+**_Hay tres nuevas categorías, cuatro categorías con cambios de denominación y alcance, y alguna consolidación en los 10 principales para 2021_**  
 
-> ![mapping-Top10Web](/Documentos/Imágenes/mapping-Top10Web.png)
+<br>
 
 > En el **puesto 4 del TOP 10 2021** está posicionada una nueva categoría: **Diseño Inseguro**, una amplia categoría que se centra en los riesgos relacionados con fallos de diseño y arquitectura, con un llamamiento a un mayor uso de Modelos de Amenazas, Patrones de Diseño Seguros y Arquitecturas de Referencia. 
 >
@@ -37,14 +40,17 @@
 > * CWE-501: Violación de las fronteras de confianza 
 > * CWE-522: Credenciales protegidas insuficientemente.
 
-
+<br>
 
 > En definitiva, el diseño inseguro es la falta de controles de seguridad integrados en la aplicación a lo largo del ciclo de desarrollo. Esto puede tener amplias y profundas consecuencias para la seguridad, ya que la propia aplicación no se diseña teniendo en cuenta la seguridad.  
 >
 > Estos descuidos dejarán inseguro el diseño fundamental y la base de la aplicación, abriendo la puerta a agujeros de seguridad, que a menudo conducen a la eventual revelación de información o al compromiso total de la aplicación.  
   
     
+<br>  
 
---------
+-------- 
 
-[<<< - Volver al Índice](/README.md)
+<br>
+
+[![arrow](/Documentos/Imágenes/ic_arrow_back_128_28226.png)](/README.md) 

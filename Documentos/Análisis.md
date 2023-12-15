@@ -1,12 +1,19 @@
 
+<br>  
 
 
 
-### Análisis Vulnerabilidad 
+### Análisis Vulnerabilidad   
+
+----  
+<br><br>  
+
 
 
 
 #### Diseño Inseguro	
+
+<br>
 
 **A04:2021 – Diseño Inseguro** es una nueva categoría para 2021, centrada en los riesgos relacionados con defectos de diseño y las fallas arquitectónicas, con un llamamiento a un mayor uso de: Modelado de Amenazas, Patrones de Diseño Seguros y Arquitecturas de Referencia
 
@@ -20,15 +27,16 @@ Un diseño inseguro no se puede arreglar con una implementación perfecta, los c
 
 Uno de los factores que contribuyen al Diseño Inseguro es la falta de perfiles de riesgo empresarial inherentes al software o sistema que se está desarrollando y, por lo tanto, la falta de determinación del nivel de diseño de seguridad que se requiere.
 
+<br>  
+
+---- 
 
 
 
 
----
+#### Gestión de Requerimientos y Recursos  
 
-
-
-#### Gestión de Requerimientos y Recursos
+<br>  
 
 > Recopile y negocie los requerimientos para la aplicación con el negocio, incluídos los requisitos de protección relacionados con la confidencialidad, integridad, disponibilidad y autenticidad de todos los activos de datos y la lógica de negocio esperada. 
 >
@@ -38,15 +46,14 @@ Uno de los factores que contribuyen al Diseño Inseguro es la falta de perfiles 
 >
 > Planifique y negocie que el presupuesto cubra el diseño, construcción, prueba y operación, incluyendo las actividades de seguridad.
 
-
-
+<br>  
 
 
 
 
 #### Diseño Seguro 
 
-
+<br>  
 
 > El Diseño Seguro es una cultura y metodología que evalúa constantemente  las amenazas y garantiza que el código esté diseñado y probado de manera sólida para prevenir métodos de ataque conocidos. 
 >
@@ -58,11 +65,13 @@ Uno de los factores que contribuyen al Diseño Inseguro es la falta de perfiles 
 >
 > Aprenda de los errores y ofrezca incentivos positivos para promover  mejoras. El diseño seguro no es un complemento ni una herramienta que  pueda agregar al software
 
+<br>  
 
 
 
+#### Ciclo de Desarrollo Seguro (S-SDLC)  
 
-#### Ciclo de Desarrollo Seguro (S-SDLC)
+<br>  
 
 > El Software Seguro requiere un Ciclo de Desarrollo Seguro, alguna forma de patrón de diseño seguro, metodologías de carretera pavimentada ("paved road"), bibliotecas de componentes seguros, herramientas y  modelado de amenazas. 
 >
@@ -70,11 +79,13 @@ Uno de los factores que contribuyen al Diseño Inseguro es la falta de perfiles 
 >
 > Considere aprovechar el [Modelo de Madurez para el Aseguramiento del Software (SAMM)](https://owaspsamm.org) para ayudar a estructurar sus esfuerzos de desarrollo de software seguro.
 
+<br>  
 
 
 
+#### Cómo Prevenir:  
 
-#### Cómo Prevenir:
+<br>  
 
 > - Establezca y use un **Ciclo de Desarrollo Seguro** apoyado en Profesionales en Seguridad de Aplicaciones para ayudarlo a evaluar y diseñar la seguridad y controles relacionados con la privacidad.
 > - Establezca y utilice un **Catálogo de Patrones de Diseño Seguros o Componentes de "Camino Pavimentado"** listos para ser utilizados.
@@ -87,14 +98,15 @@ Uno de los factores que contribuyen al Diseño Inseguro es la falta de perfiles 
 > - **Limitar el Consumo de Recursos** por Usuario o servicio.
 
 
-
+<br>  
 
 
 ----
 
+<br>  
 
 
-* **Lista CWEs Mapeadas**
+- **Lista CWEs Mapeadas**
 
 [CWE-73 External Control of File Name or Path](https://cwe.mitre.org/data/definitions/73.html)
 
@@ -177,11 +189,11 @@ Uno de los factores que contribuyen al Diseño Inseguro es la falta de perfiles 
 [CWE-1173 Improper Use of Validation Framework](https://cwe.mitre.org/data/definitions/1173.html)
 
 
+<br> 
 
 
 
-
-* **Referencias**
+- **Referencias**
 
 [OWASP Cheat Sheet: Secure Design Principles](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html)
 
@@ -196,11 +208,14 @@ Uno de los factores que contribuyen al Diseño Inseguro es la falta de perfiles 
 [Awesome Threat Modeling](https://github.com/hysnsec/awesome-threat-modelling)   
    
      
+<br>  
 
-----------
+---- 
+
+<br>
 
 
-[<<< - Volver al Índice](/README.md)
+[![arrow](/Documentos/Imágenes/ic_arrow_back_128_28226.png)](/README.md)
 
 
 

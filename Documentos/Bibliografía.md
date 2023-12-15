@@ -1,8 +1,11 @@
 
+<br>  
 
 
+### Bibliografía  
 
-### Bibliografía
+<br>  
+
 
 - Apuntes y Recursos PPS02
 - https://owasp.org/
@@ -14,6 +17,10 @@
 - https://crashtest-security.com/insecure-design-vulnerability/
 - https://www.synopsys.com/blogs/software-security/owasp-top-10-insecure-design.html  
  
+<br>  
+
 --------- 
 
-[<<< - Volver al Índice](/README.md)
+<br>  
+
+[![arrow](/Documentos/Imágenes/ic_arrow_back_128_28226.png)](/README.md)
