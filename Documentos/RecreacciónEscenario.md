@@ -3,8 +3,11 @@
 
 ### Recreacción Escenario 
 
-<br>.
-La Tarea la he realizado en un contendor docker en el que he incluído: Laravel 10 con php 8, mysql y nginx  
+<br>
+- La Tarea la he realizado en un contendor docker en el que he incluído: Laravel 10 con php 8, mysql y nginx  
+
+_NOTA: El contenedor no lo he podido subir a GitHub de momento, tengo que revisar cómo hacerlo._
+
 <br>
 
 <br>

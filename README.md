@@ -21,7 +21,8 @@
   - [Escenario 2](/Documentos/EscenariosActuales.md/#escenario-2)
   - [Escenario 3](/Documentos/EscenariosActuales.md/#escenario-3)
   - [Escenario 4](/Documentos/EscenariosActuales.md/#escenario-4)
-- [Recreacción Escenario](/Documentos/RecreacciónEscenario.md)
+  - [Recreacción Escenario](/Documentos/RecreacciónEscenario.md) 
+  - [Video Youtube Recreacción Escenario](https://www.youtube.com/watch?v=0ItuRnVaBnU)
 
 - [Bibliografia](/Documentos/Bibliografía.md)  
   
