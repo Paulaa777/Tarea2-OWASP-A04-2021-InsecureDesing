@@ -10,6 +10,8 @@ _NOTA: El contenedor no lo he podido subir a GitHub de momento, tengo que revisa
 
 <br>
 
+- [Video Youtube Recreacción Escenario](https://youtu.be/0ItuRnVaBnU)
+
 <br>
 El Escenario que he reproducido en relación al Diseño inseguro se basa en la falta de control en la parte del servidor en cuanto a la subido de archivos.  
 Si confiamos en los controles únicamente en el frontend con JavaScript, Jquery, html,..., sin requerir en la parte del servidor esos mismos controles, tendremos un agujero de seguridad importante dado que los controles en el frontend están fuera de nuestro control y pueden ser facilmente saltados
@@ -56,7 +58,7 @@ La configuración para guardar nombre sería:
 
 
 **Enlace Video Youtube** 
-- https://www.youtube.com/watch?v=0ItuRnVaBnU
+- https://youtu.be/0ItuRnVaBnU
 
 <br>
 

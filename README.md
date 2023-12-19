@@ -22,8 +22,8 @@
   - [Escenario 3](/Documentos/EscenariosActuales.md/#escenario-3)
   - [Escenario 4](/Documentos/EscenariosActuales.md/#escenario-4)
   - [Recreacción Escenario](/Documentos/RecreacciónEscenario.md) 
-  - [Video Youtube Recreacción Escenario](https://www.youtube.com/watch?v=0ItuRnVaBnU)
-
+  - [Video Youtube Recreacción Escenario](https://youtu.be/0ItuRnVaBnU)
+                                         
 - [Bibliografia](/Documentos/Bibliografía.md)  
   
 
